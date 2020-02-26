@@ -8,11 +8,11 @@ I have explored some of these approaches in the Jupyter Notebook. These are:
 
 # Visualization Examples
 
-<img src="https://github.com/adityachirania/jobfind/blob/master/image.png" height = 200 width = 200>
+<img src="https://github.com/sreesai1412/Visualizing-CNN-Filters/blob/master/Handpicked%20Visualizations/block2_conv2_filter_13.png" height = 200 width = 200>
 
-<img src="https://github.com/adityachirania/jobfind/blob/master/image.png" height = 200 width = 200>
+<img src="https://github.com/sreesai1412/Visualizing-CNN-Filters/blob/master/Handpicked%20Visualizations/block5_conv2_filter_150.png" height = 200 width = 200>
 
-<img src="https://github.com/adityachirania/jobfind/blob/master/image.png" height = 200 width = 200>
+<img src="https://github.com/sreesai1412/Visualizing-CNN-Filters/blob/master/Handpicked%20Visualizations/block5_conv2_filter_510.png" height = 200 width = 200>
 
-<img src="https://github.com/adityachirania/jobfind/blob/master/image.png" height = 200 width = 200>
+<img src="https://github.com/sreesai1412/Visualizing-CNN-Filters/blob/master/Handpicked%20Visualizations/block5_conv2_filter_233.png" height = 200 width = 200>
 
