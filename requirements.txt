@@ -1,0 +1,9 @@
+
+The following libraries/technologies are required to run my notebook:
+
+1)TensorFlow
+2)Keras
+3)NumPy
+4)Matplotlib
+5)OpenCv
+6)Python(3.5-3.7)
